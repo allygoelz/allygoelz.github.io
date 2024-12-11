@@ -24,6 +24,7 @@ p {
 }
 .button {
   background-color: #1099F4;
+align: center;
   border: 5px black;
   font-family: 'Poppins';
   font-size: 20px;
